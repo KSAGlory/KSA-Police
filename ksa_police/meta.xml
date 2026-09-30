@@ -1,0 +1,6 @@
+<meta>
+    <info author="KSAGlory" name="KSA Police" type="script" version="3.0.1" description="Experimental server-owned wanted escalation foundation" />
+    <min_mta_version client="1.3.0-9.04482" server="1.3.0-9.04482" />
+    <script src="server.lua" type="server" />
+    <script src="client-probe.lua" type="client" />
+</meta>

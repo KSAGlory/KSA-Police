@@ -1,0 +1,10 @@
+dist/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+mtaserver.conf
+acl.xml
+coreconfig.xml
+*.key
+.env
