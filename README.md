@@ -70,4 +70,4 @@ Improved pursuit behavior, safe pathfinding, and compatibility fixes are welcome
 
 ## License
 
-KSA Police's source is released under the [MIT License](LICENSE). Slothbot, MTA:SA, and GTA: San Andreas are separate projects with their own terms and are not included.
+KSA Police's source is released under the [MIT License](LICENSE).
