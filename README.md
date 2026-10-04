@@ -71,3 +71,4 @@ Improved pursuit behavior, safe pathfinding, and compatibility fixes are welcome
 ## License
 
 KSA Police's source is released under the [MIT License](LICENSE).
+Copyright © 2026 KSAGlory. All rights reserved.
